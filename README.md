@@ -59,7 +59,11 @@ b)	Unit Test cases.
 
 ## How to Begin：
 
-git clone https://github.com/tws-online-quiz/student-grade-command-pattern-java
+get the practice repository:
+```
+ git clone https://github.com/ThoughtWorks-School-Showcase/unit-test-java
+```
+
 Stack Initial and build:
 
 ```
