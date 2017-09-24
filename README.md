@@ -59,16 +59,23 @@ b)	Unit Test cases.
 
 ## How to Begin：
 
-1.	git clone https://github.com/tws-online-quiz/unit-test-java
+git clone https://github.com/tws-online-quiz/student-grade-command-pattern-java
 Stack Initial and build:
-1.	Mac/Linux: ./gradlew idea   
-2.	Whindows:  gradlew.bat idea  
-3.	
-4.	Mac/Linux: ./gradlew clean build   
-5.	Whindows:  gradlew.bat clean build 
+
+```
+Mac/Linux: ./gradlew idea   
+Whindows:  gradlew.bat idea  
+```
+```
+Mac/Linux: ./gradlew clean build   
+Whindows:  gradlew.bat clean build 
+```
+
 Test:
-1.	Mac/Linux: ./gradlew clean test 
-2.	Whindows:  gradlew.bat clean test.
+```
+Mac/Linux: ./gradlew clean test 
+Whindows:  gradlew.bat clean test.
+```
 
 ## Learn Resourse(Chinese Version):
 
